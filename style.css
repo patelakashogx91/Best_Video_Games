@@ -1,0 +1,51 @@
+
+h1 {
+    color:green;
+    font-family: Monospace;
+    text-align:center;
+    background-color: black;
+    text-decoration: underline;
+    border: solid;
+    border-color: blue;
+    border-width: 12px;
+    border-radius: 200px;
+    
+}
+h2 {
+    color:green;
+    font-family: Monospace;
+    text-align:center;
+     background-color: black;
+     text-decoration: underline;
+}
+h3 {
+    color:Blue;
+    font-family: Sans-Serif;
+    text-align:left;
+     background-color: black;
+}
+
+h5 {
+    color:red;
+    background-color: black;
+    text-shadow: white;
+
+}
+p {
+    color:white;
+    text-align: right;
+     background-color: black;
+}
+img {
+    float: right;
+    width: 300px;
+    border:double;
+    border-color: blue;
+    margin: 10px;
+    border-width: 13px;
+    border-radius: 30px;
+}
+br {
+    color:blue;
+    border-style: double;
+}
